@@ -27,8 +27,16 @@ In order to determine the best feature for regression analysis and classificatio
 2. Feature Importance
 3. Correlation Matrix with Heatmap
 
+Here is a heatmap using technique #3:
+
+![](images/hm_features.png)
+
 ## Logistic Regression
 I used logistic regression to predict a person's purchasing habit through five selected features: Age Range, Jewelry Type, Gender, Online Shopping Preferences, Website Preferences. Before doing so, I label encoded the dataframe. 
+
+Results:
+
+![](images/hm_results.png)
 
 ## Hypothesis Testing & Bootstrapping
 I ran a hypothesis test on Age Range and Website Preference. I generated a 95% Confidence Interval on the correlation between both factors, and concluded that there is no association. The residual plot also prove zero correlation.
