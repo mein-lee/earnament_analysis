@@ -25,7 +25,7 @@ Shortened table values and column names, got rid of unneccesary and messy inform
 Checked for and got rid of for null values
 
 ## EDA & Data Visualization
-
+![](Screenshot%20(6).png)
 
 ## Feature Selection
 In order to determine the best feature for regression analysis and classification modeling, I used three different techniques: 
